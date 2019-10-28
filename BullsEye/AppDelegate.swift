@@ -2,14 +2,14 @@
 //  AppDelegate.swift
 //  BullsEye
 //
-//  Created by MacStudent on 2019-10-25.
+//  Created by MacStudent on 2019-10-28.
 //  Copyright © 2019 MacStudent. All rights reserved.
 //
 
 import UIKit
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+        class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
